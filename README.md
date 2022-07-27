@@ -15,6 +15,17 @@ This application leverages python 3.7 with the following libraries and packages:
 
 ---
 
+## Installation Guide
+
+Before running the application first install the following dependencies.
+
+### Conda Libraries
+```python
+  $ conda install -c pyviz hvplot geoviews
+```
+
+---
+
 ## Usage
 
 To use the San Francisco Property Investments application you must first launch Jupyter Lab by executing the following command within Git Bash:
